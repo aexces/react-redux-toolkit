@@ -1,0 +1,19 @@
+.buttons {
+  justify-content: center;
+  display: flex;
+  column-gap: 10px;
+  align-items: center;
+  padding: 1%;
+  width: 100%;
+  height: 100%;
+}
+
+.heading {
+  justify-content: center;
+  display: flex;
+  column-gap: 10px;
+  align-items: center;
+  padding: 1%;
+  width: 100%;
+  height: 100%;
+}
